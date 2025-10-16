@@ -1,0 +1,3 @@
+knight,easy,81.5
+knight,easy,263.0
+knight,easy,253.0
